@@ -14,7 +14,7 @@
 
 ├── flight_price.ipynb
 
-├── flight_rf.pkl
+├── prediction.pkl
 
 ├── requirements.txt
 
